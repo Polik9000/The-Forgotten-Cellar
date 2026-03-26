@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 2e2aafbef36c73d4e8290c0728cfd655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5256486478382571722
+    second: netilemap_cesta-rozborena 1_0
+  - first:
+      213: -2551229107571221459
+    second: netilemap_cesta-rozborena 1_1
+  - first:
+      213: -1995630186684543170
+    second: netilemap_cesta-rozborena 1_2
+  - first:
+      213: 5324687862885482318
+    second: netilemap_cesta-rozborena 1_3
+  - first:
+      213: -6888277496619016753
+    second: netilemap_cesta-rozborena 1_4
+  - first:
+      213: 3327535765885771559
+    second: netilemap_cesta-rozborena 1_5
+  - first:
+      213: -2045178195326718244
+    second: netilemap_cesta-rozborena 1_6
+  - first:
+      213: 6870723199158226247
+    second: netilemap_cesta-rozborena 1_7
+  - first:
+      213: -8965244046101687329
+    second: netilemap_cesta-rozborena 1_8
+  - first:
+      213: -731306363492256191
+    second: netilemap_cesta-rozborena 1_9
+  - first:
+      213: -6447149845333024830
+    second: netilemap_cesta-rozborena 1_10
+  - first:
+      213: -6728933579611313688
+    second: netilemap_cesta-rozborena 1_11
+  - first:
+      213: 8389384380706081852
+    second: netilemap_cesta-rozborena 1_12
+  - first:
+      213: -1734959442138743202
+    second: netilemap_cesta-rozborena 1_13
+  - first:
+      213: -7867375830346284229
+    second: netilemap_cesta-rozborena 1_14
+  - first:
+      213: -7791990711742497198
+    second: netilemap_cesta-rozborena 1_15
+  - first:
+      213: -3144402683280136154
+    second: netilemap_cesta-rozborena 1_16
+  - first:
+      213: -7906095599207841619
+    second: netilemap_cesta-rozborena 1_17
+  - first:
+      213: -5100317396571271127
+    second: netilemap_cesta-rozborena 1_18
+  - first:
+      213: -5349221671364764126
+    second: netilemap_cesta-rozborena 1_19
+  - first:
+      213: 5605981348208877365
+    second: netilemap_cesta-rozborena 1_20
+  - first:
+      213: 4809168382451418870
+    second: netilemap_cesta-rozborena 1_21
+  - first:
+      213: -7707338482681063685
+    second: netilemap_cesta-rozborena 1_22
+  - first:
+      213: -2682835786226739873
+    second: netilemap_cesta-rozborena 1_23
+  - first:
+      213: -8589060040707113342
+    second: netilemap_cesta-rozborena 1_24
+  - first:
+      213: -8596720035817602256
+    second: netilemap_cesta-rozborena 1_25
+  - first:
+      213: 2747146615341503384
+    second: netilemap_cesta-rozborena 1_26
+  - first:
+      213: 3701187621792806766
+    second: netilemap_cesta-rozborena 1_27
+  - first:
+      213: -3684297690072223823
+    second: netilemap_cesta-rozborena 1_28
+  - first:
+      213: 7483478529111644531
+    second: netilemap_cesta-rozborena 1_29
+  - first:
+      213: -6679501500100308137
+    second: netilemap_cesta-rozborena 1_30
+  - first:
+      213: -2271113728871823446
+    second: netilemap_cesta-rozborena 1_31
+  - first:
+      213: 4490222918692727243
+    second: netilemap_cesta-rozborena 1_32
+  - first:
+      213: -2579529298912440635
+    second: netilemap_cesta-rozborena 1_33
+  - first:
+      213: 4453157501565711083
+    second: netilemap_cesta-rozborena 1_34
+  - first:
+      213: 4223792738519884795
+    second: netilemap_cesta-rozborena 1_35
+  - first:
+      213: -7191912071608726148
+    second: netilemap_cesta-rozborena 1_36
+  - first:
+      213: -7183272955628622245
+    second: netilemap_cesta-rozborena 1_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac023ae1a9ac2f840800000000000000
+      internalID: 5256486478382571722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c9496c4a6389cd0800000000000000
+      internalID: -2551229107571221459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0f932be81e44e0800000000000000
+      internalID: -1995630186684543170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f7f1f566715e940800000000000000
+      internalID: 5324687862885482318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd4bbcc1ce760a0800000000000000
+      internalID: -6888277496619016753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f57072628cd2e20800000000000000
+      internalID: 3327535765885771559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2d2564411e93e0800000000000000
+      internalID: -2045178195326718244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d8cd3d856b95f50800000000000000
+      internalID: 6870723199158226247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35c6b3a0e059380800000000000000
+      internalID: -8965244046101687329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146bf0eacb0e9d5f0800000000000000
+      internalID: -731306363492256191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd537cf5f1786a0800000000000000
+      internalID: -6447149845333024830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e11e8f860e92a0800000000000000
+      internalID: -6728933579611313688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c423835a41d6470800000000000000
+      internalID: 8389384380706081852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3c9f549f2ce7e0800000000000000
+      internalID: -1734959442138743202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 180
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3347bd8d5771d290800000000000000
+      internalID: -7867375830346284229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 180
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef17d3bb94dd390800000000000000
+      internalID: -7791990711742497198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286d485b66dc54d0800000000000000
+      internalID: -3144402683280136154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da000f8d0f7e74290800000000000000
+      internalID: -7906095599207841619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920df97b9580839b0800000000000000
+      internalID: -5100317396571271127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e5b753b3fb3c5b0800000000000000
+      internalID: -5349221671364764126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f947d95527ccd40800000000000000
+      internalID: 5605981348208877365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f68e0de9299db240800000000000000
+      internalID: 4809168382451418870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d8183c780a0590800000000000000
+      internalID: -7707338482681063685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55df331117a4cad0800000000000000
+      internalID: -2682835786226739873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e762756678dc880800000000000000
+      internalID: -8589060040707113342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033cb9fbca052b880800000000000000
+      internalID: -8596720035817602256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d859aa43df1620800000000000000
+      internalID: 2747146615341503384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67780448824d5330800000000000000
+      internalID: 3701187621792806766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe37865cebedcc0800000000000000
+      internalID: -3684297690072223823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37956f3b218aad760800000000000000
+      internalID: 7483478529111644531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75315d176c4ad43a0800000000000000
+      internalID: -6679501500100308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70512b8126b70e0800000000000000
+      internalID: -2271113728871823446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96ffe44f9705e30800000000000000
+      internalID: 4490222918692727243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8c9205cba33cd0800000000000000
+      internalID: -2579529298912440635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b0b1672bcccd30800000000000000
+      internalID: 4453157501565711083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32a58fd1ded9a30800000000000000
+      internalID: 4223792738519884795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d0be34312313c90800000000000000
+      internalID: -7191912071608726148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netilemap_cesta-rozborena 1_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee5133e43ef4c90800000000000000
+      internalID: -7183272955628622245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d2848a9a0f9064849abf2cae7bf463c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      netilemap_cesta-rozborena 1_0: 5256486478382571722
+      netilemap_cesta-rozborena 1_1: -2551229107571221459
+      netilemap_cesta-rozborena 1_10: -6447149845333024830
+      netilemap_cesta-rozborena 1_11: -6728933579611313688
+      netilemap_cesta-rozborena 1_12: 8389384380706081852
+      netilemap_cesta-rozborena 1_13: -1734959442138743202
+      netilemap_cesta-rozborena 1_14: -7867375830346284229
+      netilemap_cesta-rozborena 1_15: -7791990711742497198
+      netilemap_cesta-rozborena 1_16: -3144402683280136154
+      netilemap_cesta-rozborena 1_17: -7906095599207841619
+      netilemap_cesta-rozborena 1_18: -5100317396571271127
+      netilemap_cesta-rozborena 1_19: -5349221671364764126
+      netilemap_cesta-rozborena 1_2: -1995630186684543170
+      netilemap_cesta-rozborena 1_20: 5605981348208877365
+      netilemap_cesta-rozborena 1_21: 4809168382451418870
+      netilemap_cesta-rozborena 1_22: -7707338482681063685
+      netilemap_cesta-rozborena 1_23: -2682835786226739873
+      netilemap_cesta-rozborena 1_24: -8589060040707113342
+      netilemap_cesta-rozborena 1_25: -8596720035817602256
+      netilemap_cesta-rozborena 1_26: 2747146615341503384
+      netilemap_cesta-rozborena 1_27: 3701187621792806766
+      netilemap_cesta-rozborena 1_28: -3684297690072223823
+      netilemap_cesta-rozborena 1_29: 7483478529111644531
+      netilemap_cesta-rozborena 1_3: 5324687862885482318
+      netilemap_cesta-rozborena 1_30: -6679501500100308137
+      netilemap_cesta-rozborena 1_31: -2271113728871823446
+      netilemap_cesta-rozborena 1_32: 4490222918692727243
+      netilemap_cesta-rozborena 1_33: -2579529298912440635
+      netilemap_cesta-rozborena 1_34: 4453157501565711083
+      netilemap_cesta-rozborena 1_35: 4223792738519884795
+      netilemap_cesta-rozborena 1_36: -7191912071608726148
+      netilemap_cesta-rozborena 1_37: -7183272955628622245
+      netilemap_cesta-rozborena 1_4: -6888277496619016753
+      netilemap_cesta-rozborena 1_5: 3327535765885771559
+      netilemap_cesta-rozborena 1_6: -2045178195326718244
+      netilemap_cesta-rozborena 1_7: 6870723199158226247
+      netilemap_cesta-rozborena 1_8: -8965244046101687329
+      netilemap_cesta-rozborena 1_9: -731306363492256191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
