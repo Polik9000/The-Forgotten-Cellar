@@ -33,7 +33,6 @@ public class EnemyHealthManager : MonoBehaviour
 
     void HeathBarPosition()
     {
-
         if (target != null && enemy.HP < enemy.MaxHp)
         {
             // Získání pozice cíle a přidání offsetu
@@ -50,7 +49,7 @@ public class EnemyHealthManager : MonoBehaviour
         else if (enemy.HP >= enemy.MaxHp)
         {
             // Skrytí health baru, pokud je zdraví maximální
-            rectTransform.transform.position = new Vector3(-0, 0, -10000); // Skrytí health baru mimo obrazovku
+            rectTransform.transform.position = new Vector3(0, 10000, 0); // Skrytí health baru mimo obrazovku
         }
     }
 }

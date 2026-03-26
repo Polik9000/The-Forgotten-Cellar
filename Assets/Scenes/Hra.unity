@@ -6542,6 +6542,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8347342400365444727, guid: dae1db44db39e1e4b8329c594809b765, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8347342400365444727, guid: dae1db44db39e1e4b8329c594809b765, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11983,7 +11991,7 @@ GameObject:
   - component: {fileID: 988360384}
   - component: {fileID: 988360383}
   m_Layer: 5
-  m_Name: Tutorial
+  m_Name: Tutorial(button)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15487,9 +15495,9 @@ RectTransform:
   m_LocalScale: {x: 11.08, y: 8, z: 7.2}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1472636738}
   - {fileID: 98076835}
   - {fileID: 988360382}
+  - {fileID: 1472636738}
   m_Father: {fileID: 2145319659}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -26311,8 +26319,8 @@ Tilemap:
   - first: {x: 25, y: -4, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 6
-      m_TileSpriteIndex: 6
+      m_TileIndex: 8
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -26321,8 +26329,8 @@ Tilemap:
   - first: {x: 28, y: -4, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 6
-      m_TileSpriteIndex: 6
+      m_TileIndex: 8
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -31452,11 +31460,11 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: bd06378a1b34da843b40b96899bfb738, type: 2}
   - m_RefCount: 48
     m_Data: {fileID: 11400000, guid: 793dafc31aa407e418e51ae9146042c2, type: 2}
-  - m_RefCount: 13
+  - m_RefCount: 11
     m_Data: {fileID: 11400000, guid: 2da918bd21ce5f546a4a9fd2330137a4, type: 2}
   - m_RefCount: 17
     m_Data: {fileID: 11400000, guid: 6766481be272c5f49be7b2436c67596e, type: 2}
-  - m_RefCount: 37
+  - m_RefCount: 39
     m_Data: {fileID: 11400000, guid: ab829878df9685449ab4d06aaa2855fb, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 7da90ff39922d6b43a338bf97fd4e29f, type: 2}
@@ -31503,11 +31511,11 @@ Tilemap:
     m_Data: {fileID: 2747146615341503384, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
   - m_RefCount: 48
     m_Data: {fileID: -7707338482681063685, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
-  - m_RefCount: 13
+  - m_RefCount: 11
     m_Data: {fileID: -2579529298912440635, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
   - m_RefCount: 17
     m_Data: {fileID: 3701187621792806766, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
-  - m_RefCount: 37
+  - m_RefCount: 39
     m_Data: {fileID: 5256486478382571722, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 3327535765885771559, guid: 2e2aafbef36c73d4e8290c0728cfd655, type: 3}
@@ -34847,7 +34855,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Back
+  m_text: Exit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
