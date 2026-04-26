@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -46,6 +47,7 @@ public class Finnish : MonoBehaviour
             winPanel.transform.Find("You_Died_Win").GetComponent<TMP_Text>().text = "You Win";
             winPanel.transform.Find("Try_Play_Again").Find("Text").GetComponent<TMP_Text>().text = "Play Again";
             winPanel.SetActive(true);
+            Debug.Log("Vyhrál jsi!");
         }
         yield return new WaitForSeconds(1.0f); // Cooldown proti smyčce
         onCooldown = false;

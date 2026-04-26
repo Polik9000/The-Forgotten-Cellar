@@ -74,8 +74,7 @@ public class Enemy : MonoBehaviour
     {
         if (Dmg != 0 && player != null)
         {
-            player.GetComponent<Player>().EnemyDmg = Dmg;
-            player.GetComponent<Player>().DmgToMe();
+            player.GetComponent<Player>().DmgToMe(Dmg);
         }
     }
     void OnTriggerEnter2D(Collider2D other)

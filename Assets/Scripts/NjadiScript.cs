@@ -6,7 +6,7 @@ public class NjadiScript : MonoBehaviour
     [Obsolete]
     void Start()
     {
-    TilemapColliderAdder script = FindObjectOfType<TilemapColliderAdder>();
+    Finnish script = FindObjectOfType<Finnish>();
     if (script != null)
         {
             Debug.Log("Skript je na objektu: " + script.gameObject.name);

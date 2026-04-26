@@ -3,13 +3,13 @@ using UnityEngine;
 using System.Collections;
 using TMPro;
 using UnityEngine.UI;
+using System.Runtime.CompilerServices;
 public class Player : MonoBehaviour
 {
     public float MaxHp;
     public float Hp;
     public float Dmg;
     public float WeaponDmg;
-    public float EnemyDmg;
     public float Armor;
     public Collider2D Range;
     public bool enemyIsNear;
@@ -18,6 +18,9 @@ public class Player : MonoBehaviour
     public GameObject DeadPanel;
     private StatsManager statsManager;
     public Image postava;
+    [SerializeField] private GameObject deadPanel;
+    [SerializeField] private TMP_Text youDiedText;
+    [SerializeField] private TMP_Text tryAgainText;
     private void Start()
     {
         MaxHp = 10;
@@ -53,43 +56,35 @@ public class Player : MonoBehaviour
         }
     }
 
-    public void DmgToMe()
+    public void DmgToMe(float EnemyDmg)
     {
         float Armor = statsManager.Defense;
         float finalDmg;
-        if (Armor > EnemyDmg)
+        if (Armor >= EnemyDmg + 100f)
         {
-            if ((Armor-100) > EnemyDmg)
-            {
-                finalDmg = 0;
-            }
-            else 
-            {
-                finalDmg = (1 - ((Armor-EnemyDmg)/100))*EnemyDmg ;
-            }
-        } 
-        else if (Armor == EnemyDmg)
-        {
-            finalDmg = 1;
+            finalDmg = 0f;
         }
         else
         {
-            finalDmg = EnemyDmg - Armor;
+            float minimumDmgFloor = EnemyDmg * 0.1f; // 10% z původního poškození
+            finalDmg = Mathf.Max(EnemyDmg - Armor, minimumDmgFloor);
         }
         Hp -= finalDmg;
-
         if (Hp <= 0 )
         {
-            Time.timeScale = 0;
-            if (!DeadPanel.activeSelf)
-            {
-                DeadPanel.transform.Find("You_Died_Win").GetComponent<TMP_Text>().text = "You Died";
-                DeadPanel.transform.Find("Try_Play_Again").Find("Text").GetComponent<TMP_Text>().text = "Try Again";
-                DeadPanel.SetActive(true);
-            }
+            Die();
         }
     }
-
+    private void Die()
+    {
+        Time.timeScale = 0f;
+        if (!deadPanel.activeSelf)
+        {
+            youDiedText.text = "You Died";
+            tryAgainText.text = "Try Again";
+            deadPanel.SetActive(true);
+        }
+    }
     IEnumerator Wait()
     {
         yield return new WaitForSeconds(AttackSpeed);
