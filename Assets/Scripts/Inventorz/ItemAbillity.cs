@@ -27,8 +27,7 @@ public class ItemAbillity : MonoBehaviour
             if (gameObject.name.Contains("dagger"))
             {
                 Player player = FindAnyObjectByType<Player>();
-                player.WeaponDmg = 2;
-                player.DmgToEnemy();
+                player.DmgToEnemy(2);
             }
         }
     }

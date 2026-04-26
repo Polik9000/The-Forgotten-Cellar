@@ -5,7 +5,6 @@ public class Enemy : MonoBehaviour
     public float HP;
     public float MaxHp;
     public float Dmg;
-    public int GainedDmg;
     public int XP;
     public float AttackSpeed;
     public bool CanAttack;
@@ -56,9 +55,8 @@ public class Enemy : MonoBehaviour
         yield return new WaitForSeconds(AttackSpeed); // Počká 2 sekundy
         CanAttack = true;
     }
-    public void DmgToMe()
+    public void DmgToMe(float GainedDmg)
     {
-        Debug.Log("jyc" + gameObject.name);
         if (GainedDmg != 0)
         {
             HP -= GainedDmg;

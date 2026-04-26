@@ -8,8 +8,6 @@ public class Player : MonoBehaviour
 {
     public float MaxHp;
     public float Hp;
-    public float Dmg;
-    public float WeaponDmg;
     public float Armor;
     public Collider2D Range;
     public bool enemyIsNear;
@@ -33,7 +31,7 @@ public class Player : MonoBehaviour
         postava.GetComponent<Image>().sprite = gameObject.GetComponent<SpriteRenderer>().sprite;
     }
 
-    public void DmgToEnemy()
+    public void DmgToEnemy(float Dmg)
     {
         Vector2 cursorPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
@@ -45,11 +43,9 @@ public class Player : MonoBehaviour
             if (enemy != null && CanAttack && enemyIsNear)
             {
                 CanAttack = false;
-                Dmg = WeaponDmg;
 
                 float upravenyDmg = (Dmg + statsManager.DmgModifierUnitary) * statsManager.DmgModifierPercent;
-                enemy.GainedDmg = (int)Math.Round(upravenyDmg);
-                enemy.DmgToMe();
+                enemy.DmgToMe(upravenyDmg);
 
                 StartCoroutine(Wait());
             }
