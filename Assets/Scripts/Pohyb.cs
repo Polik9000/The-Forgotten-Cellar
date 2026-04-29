@@ -18,6 +18,15 @@ public class PlayerMovement : MonoBehaviour
         float moveX = Input.GetAxisRaw("Horizontal"); // -1 pro 'A', 1 pro 'D'
         float moveY = Input.GetAxisRaw("Vertical");   // -1 pro 'S', 1 pro 'W'
 
+        if (moveX < 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = true; // Otočení sprite horizontálně
+
+        }
+        else if (moveX > 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = false; // Otočení sprite zpět
+        }
         // Nastavení pohybu pomocí Rigidbody2D velocity
         rb.linearVelocity = new Vector2(moveX, moveY) * moveSpeed;
     }
